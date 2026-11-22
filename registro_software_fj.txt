@@ -1,0 +1,24 @@
+2026-11-22 14:36:57 | EXITO | Cliente registrado: Ana Perez | ID: 101234
+2026-11-22 14:36:57 | EXITO | Cliente registrado: Luis Gomez | ID: 105678
+2026-11-22 14:36:57 | ERROR | Registro de cliente: El nombre del cliente es obligatorio.
+2026-11-22 14:36:57 | ERROR | Registro de cliente: El correo electronico no es valido.
+2026-11-22 14:36:57 | ERROR | Registro de cliente: Ya existe un cliente con esa identificacion.
+2026-11-22 14:36:57 | EXITO | Servicio creado: Sala: Sala de reuniones | Capacidad: 10
+2026-11-22 14:36:57 | EXITO | Servicio creado: Equipo: Computador portatil | Unidades: 2
+2026-11-22 14:36:57 | EXITO | Servicio creado: Asesoria: Asesoria tecnologica | Area: Software
+2026-11-22 14:36:57 | ERROR | Creacion de servicio: Capacidad: el numero debe ser mayor que cero.
+2026-11-22 14:36:57 | ERROR | Creacion de servicio: Tarifa: el numero debe ser mayor que cero.
+2026-11-22 14:36:57 | EXITO | Reserva de Sala de reuniones confirmada. Total: $80000.0
+2026-11-22 14:36:57 | EVENTO | Procesamiento finalizado. Estado: Confirmada
+2026-11-22 14:36:57 | EXITO | Reserva de Computador portatil confirmada. Total: $108000.0
+2026-11-22 14:36:57 | EVENTO | Procesamiento finalizado. Estado: Confirmada
+2026-11-22 14:36:57 | EXITO | Reserva de Asesoria tecnologica confirmada. Total: $67830.0
+2026-11-22 14:36:57 | EVENTO | Procesamiento finalizado. Estado: Confirmada
+2026-11-22 14:36:57 | ERROR | Creacion de reserva: Duracion: debe ingresar un numero valido.
+2026-11-22 14:36:57 | EVENTO | Sala de reuniones - Disponible: False
+2026-11-22 14:36:57 | ERROR | Reserva de Sala de reuniones: El servicio no esta disponible.
+2026-11-22 14:36:57 | EVENTO | Procesamiento finalizado. Estado: Fallida
+2026-11-22 14:36:57 | EXITO | Reserva cancelada correctamente.
+2026-11-22 14:36:57 | ERROR | Cancelacion de reserva: Solo se puede cancelar una reserva confirmada.
+2026-11-22 14:36:57 | EXITO | Reserva de Asesoria tecnologica confirmada. Total: $120000.0
+2026-11-22 14:36:57 | EVENTO | Procesamiento finalizado. Estado: Confirmada
